@@ -1,0 +1,15 @@
+.form-container {
+    margin-top: 50px; 
+  }
+   
+  .success-message {
+    margin-top: 20px;
+    color: green;
+    font-weight: bold;
+  }
+   
+  .error-message {
+    margin-top: 20px;
+    color: red;
+    font-weight: bold;
+  }
